@@ -1,0 +1,6 @@
+LIBRARY	"Helper"
+
+EXPORTS SkipHook
+EXPORTS isValidPreOpCode
+EXPORTS isValidPostOpCode
+EXPORTS GetInstrSize

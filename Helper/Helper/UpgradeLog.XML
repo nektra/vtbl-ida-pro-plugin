@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Helper">
+</Property><Property Name="Solution File" Value="D:\Nektra\projects\Plugin-VTBL\Helper\Helper\Helper.sln">
+</Property><Property Name="User Options File" Value="D:\Nektra\projects\Plugin-VTBL\Helper\Helper\Helper.suo">
+</Property><Property Name="Date" Value="Tuesday, August 21, 2012">
+</Property><Property Name="Time" Value="14:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Helper.sln" Description="File successfully backed up as D:\Nektra\projects\Plugin-VTBL\Helper\Helper\Helper.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Helper.suo" Description="File successfully backed up as D:\Nektra\projects\Plugin-VTBL\Helper\Helper\Helper.suo.old">
+</Event><Event ErrorLevel="0" Project="Helper" Source="Helper.vcproj" Description="Converting project file 'D:\Nektra\projects\Plugin-VTBL\Helper\Helper\Helper.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Helper" Source="Helper.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Helper" Source="Helper.vcproj" Description="Done converting to new project file 'D:\Nektra\projects\Plugin-VTBL\Helper\Helper\Helper.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Helper" Source="Helper.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Helper.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Helper.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,6 @@
+
+bool IsValidAddress()
+{
+
+	return true;
+}
